@@ -1,7 +1,5 @@
 # How to load program to PIC16F877A using PICKIT3
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 We can upload program in two different ways.
 - Using Pickit3 Standalone Programmer
 - Using MPLAB IPE
